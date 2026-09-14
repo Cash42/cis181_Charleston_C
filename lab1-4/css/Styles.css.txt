@@ -1,0 +1,27 @@
+body {
+    background-color: FCFCFC;
+    color: #4A4A4A;
+    font-family: Verdana, Ariel, sans-serif;
+    font-size: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    }
+    background-color: #FCFCFC;
+h1,h2{
+    font-family: georgia, "Times New Roman", serif;}
+<h1>{
+    font-size: 52px;
+    color: #1a1a1a;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 2px #D5D5D5
+}</h1>
+<h2>{font-size: 28px;
+color: #0097A7;}</h2>
+image {image-width:380px;
+solid-border: 2px;
+border-color: #0097A7;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 0px;
+margin-right: 0px;
+}
