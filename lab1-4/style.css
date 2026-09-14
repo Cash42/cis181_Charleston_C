@@ -5,8 +5,8 @@ body {
     font-size: 15px;
     padding-left: 40px;
     padding-right: 40px;
+     background-color: #FCFCFC;
     }
-    background-color: #FCFCFC;
 h1{
      font-family: georgia, "Times New Roman", serif;
     font-size: 52px;
@@ -14,14 +14,16 @@ h1{
     letter-spacing: 2px;
     text-shadow: 1px 1px 2px #D5D5D5
 }
-h2{font-size: 28px;
- font-family: georgia, "Times New Roman", serif;
-color: #0097A7;}</h2>
-image {image-width:380px;
-solid-border: 2px;
-border-color: #0097A7;
-margin-top: 20px;
-margin-bottom: 20px;
-margin-left: 0px;
-margin-right: 0px;
+h2{
+     font-family: georgia, "Times New Roman", serif;
+    font-size: 28px;
+    color: #0097A7;}
+img {
+    width:380px;
+    border: 2px;
+    border-color: #0097A7;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
