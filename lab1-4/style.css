@@ -7,17 +7,20 @@ body {
     padding-right: 40px;
      background-color: #FCFCFC;
     }
-h1{
+
+h   1{
      font-family: georgia, "Times New Roman", serif;
     font-size: 52px;
     color: #1a1a1a;
     letter-spacing: 2px;
     text-shadow: 1px 1px 2px #D5D5D5
 }
-h2{
-     font-family: georgia, "Times New Roman", serif;
+
+h2  {
+    font-family: georgia, "Times New Roman", serif;
     font-size: 28px;
     color: #0097A7;}
+
 img {
     width:380px;
     border: 2px;
