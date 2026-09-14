@@ -9,13 +9,13 @@ body {
     background-color: #FCFCFC;
 h1,h2{
     font-family: georgia, "Times New Roman", serif;}
-<h1>{
+h1{
     font-size: 52px;
     color: #1a1a1a;
     letter-spacing: 2px;
     text-shadow: 1px 1px 2px #D5D5D5
-}</h1>
-<h2>{font-size: 28px;
+}
+h2{font-size: 28px;
 color: #0097A7;}</h2>
 image {image-width:380px;
 solid-border: 2px;
