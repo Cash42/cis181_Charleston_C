@@ -1,7 +1,7 @@
 body {
     background-color: FCFCFC;
     color: #4A4A4A;
-    font-family: Verdana, Ariel, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     font-size: 15px;
     padding-left: 40px;
     padding-right: 40px;
@@ -23,7 +23,7 @@ h2 {
 
 img {
     width:380px;
-    border: 2px;
+    border: 2px solid;
     border-color: #0097A7;
     margin-top: 20px;
     margin-bottom: 20px;
